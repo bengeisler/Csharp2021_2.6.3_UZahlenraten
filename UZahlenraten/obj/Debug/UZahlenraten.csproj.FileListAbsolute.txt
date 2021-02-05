@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\UZahlenraten\UZahlenraten\bin\Debug\UZahlenraten.exe.config
+C:\Users\b\source\repos\UZahlenraten\UZahlenraten\bin\Debug\UZahlenraten.exe
+C:\Users\b\source\repos\UZahlenraten\UZahlenraten\bin\Debug\UZahlenraten.pdb
+C:\Users\b\source\repos\UZahlenraten\UZahlenraten\obj\Debug\UZahlenraten.csprojAssemblyReference.cache
+C:\Users\b\source\repos\UZahlenraten\UZahlenraten\obj\Debug\UZahlenraten.Form1.resources
+C:\Users\b\source\repos\UZahlenraten\UZahlenraten\obj\Debug\UZahlenraten.Properties.Resources.resources
+C:\Users\b\source\repos\UZahlenraten\UZahlenraten\obj\Debug\UZahlenraten.csproj.GenerateResource.cache
+C:\Users\b\source\repos\UZahlenraten\UZahlenraten\obj\Debug\UZahlenraten.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\UZahlenraten\UZahlenraten\obj\Debug\UZahlenraten.exe
+C:\Users\b\source\repos\UZahlenraten\UZahlenraten\obj\Debug\UZahlenraten.pdb
